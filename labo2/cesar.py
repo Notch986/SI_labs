@@ -39,7 +39,7 @@ def cifrado_cesar_personalizado(texto, desplazamiento, alfabeto):
 # Top level window 
 frame = tk.Tk() 
 frame.title("Cifrado Cesar") 
-frame.geometry('400x200') 
+frame.geometry('800x400') 
 # Function for getting Input 
 # from textbox and printing it  
 # at label widget 
